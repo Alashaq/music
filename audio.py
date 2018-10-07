@@ -159,4 +159,4 @@ async def leave(ctx):
     songs.clear()
     
 
-bot.run(os.environ['NDk4MjEyMjAwMzAxOTg1ODEy.DptgnA.DHn7yNUdT3VaS_lGPutKc1sQCz0'])
+bot.run(os.environ['NDk4NDI3Mzc5ODc4ODU0NjY2.DptkqQ.S3nJMicDlcdnAacQAa2kWxku9Io'])
