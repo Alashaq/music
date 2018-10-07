@@ -145,7 +145,7 @@ async def skip(con): #skipping songs?
     
     
 @bot.command(pass_context=True)
-async def stop(con):
+async def stopalashaq(con):
     players[con.message.server.id].stop()
     songs.clear()
 
